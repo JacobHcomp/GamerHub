@@ -1,0 +1,52 @@
+.bg-custom {
+    background-color: #252525; /* Example: Coral color */
+  }
+
+.title {
+    font-size: 100px;
+    text-align: center;
+    margin-top: 30px;
+    text-decoration: underline;
+    font-family: Impact;
+}
+
+.news-item {
+    background-color: #535353; /* Light background for the news card */
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    transition: transform 0.3s ease-in-out;
+}
+
+.news-item:hover {
+    transform: scale(1.06); /* Slight zoom effect on hover */
+}
+
+.news-image {
+    width: 250px; /* Set the width for the news images */
+    height: 141px;
+    border-radius: 4px; /* Rounded corners for images */
+}
+
+.news-text {
+    flex: 1;
+}
+
+.news-text h5 {
+    margin-bottom: 0.5rem; /* Space between the title and the paragraph */
+    font-size: 1.8rem;
+    color: #ffffff;
+}
+
+.news-text p {
+    margin-bottom: 0;
+    font-size: 1rem;
+    color: #ebebeb; /* Darker color for readability */
+}
+
+.footer {
+    margin-top: 80px;
+}
+
+.custom-footer-bg {
+    background-color: #e0e0e0;
+}

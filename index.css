@@ -1,0 +1,59 @@
+.bg-custom {
+    background-color: #252525; /* Example: Coral color */
+  } 
+
+.full-width-image {
+    width: 100%;
+    height: auto;
+}
+.welcome {
+    margin-top: 50px;
+    text-align: center;
+    font-family: Impact;
+    font-size: 100px;
+    text-decoration: underline;
+} 
+.reviews {
+    margin-top: 40px;
+    text-align: center;
+    font-family: Impact;
+    font-size: 50px;
+}
+.news {
+    margin-top: 80px;
+    text-align: center;
+    font-family: Impact;
+    font-size: 50px;
+}
+
+.game-box {
+    text-align: center;
+    background-color: #ccc;
+    padding: 20px;
+    border-radius: 10px;
+}
+.game-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+.game-title {
+    font-size: 1.5rem;
+    margin-top: 10px;
+}
+.game-description {
+    font-size: 1rem;
+}
+
+.gametext {
+    text-decoration: none;
+    color: black;
+}
+
+.footer {
+    margin-top: 80px;
+}
+
+.custom-footer-bg {
+    background-color: #e0e0e0;
+}
